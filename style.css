@@ -1,0 +1,41 @@
+body{
+    font-family: serif;
+}
+header {
+          text-align: center;
+          padding: 10px;
+          background-color: rgb(130, 209, 129);
+   }
+   header img{
+     width: 150px;
+     height: 150px;
+     border-radius: 60%;
+     margin-bottom: 10px;
+   }
+   section{
+    margin: 10px;
+   }
+   .project {
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    margin: 10px;
+   display: inline-block;
+    text-align: center;
+    line-height: 200px;
+   }
+  h1 h2 {
+    color: rgb(33, 27, 27);
+  }
+  #bi0,#work {
+    padding: 10px;
+    background-color: rgb(144, 134, 122);
+  }
+  footer{
+    background-color: rgb(8, 36, 215);
+    text-align: center;
+    padding: 10px   ;
+  }
+  span{
+    display: block;
+  }
